@@ -2,7 +2,6 @@ from time import sleep
 from os import system
 from colorama import Cursor, init, Fore, Back
 import emoji, sys
-
 ok = "Ok Google"
 find = "Je veux trouver le meilleur alternant en Web Dev à Paris"
 init()
